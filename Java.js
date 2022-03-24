@@ -1,0 +1,7 @@
+
+function ausgabe() {
+
+
+}
+
+let wochenTagArry = []
